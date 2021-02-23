@@ -23,7 +23,7 @@
     display: flex;
     text-align: center;
     line-height: 44px;
-    box-shadow: 0 1px 1px 0 rgba(100,100,100,0.2);
+    box-shadow: 0 1px 1px 0 rgba(100,100,100,0.1);
     position: relative;
     z-index: 888;
     .center{

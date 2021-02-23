@@ -93,7 +93,7 @@
       this.getHomeGoods('new');
       this.getHomeGoods('sell');
     },
-    //混入，目前混入scroll和backTop相关
+    //混入，混入scroll和backTop相关
     mixins:[itemListenerMixin,backTop],
     //路由组件被激活时调用该生命周期函数
     activated() {
