@@ -1,5 +1,5 @@
 module.exports = {
-	publicPath:'/',
+	publicPath:'./',
 	configureWebpack:{//需要在这个对象中配置
 		resolve:{
 			alias:{
